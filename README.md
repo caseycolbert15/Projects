@@ -1,6 +1,6 @@
 # Home Networking/Cybersecurity Projects <br>
 
-I will be documenting each item, including how I set it up and configurations shortly.
+I will be documenting each item, including how I set it up and configurations shortly.  
 
 OPNsense router for the house with multiple APs thorughout the home.  
   -Setup Suricata on the router in IDS mode.  
@@ -16,6 +16,6 @@ Nessus is also installed to view vulnerabilities
 
 Aurora Lite - Keeping up on the latest trends I have also been testing out Aurora Lite.  
   -This is an advanced EDR for windows that uses Event Tracing for Windows.  
-  -This means it is able to show the exact process and commands as they run
-  -This would be very helpful in determining a process tree to find malware.
+  -This means it is able to show the exact process and commands as they run.  
+  -This would be very helpful in determining a process tree to find malware.  
   
