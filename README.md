@@ -1,6 +1,6 @@
 # Home Networking/Cybersecurity Projects <br>
 
-I will be documenting each item, how I set it up and configurations shortly.
+I will be documenting each item, including how I set it up and configurations shortly.
 
 OPNsense router for the house with multiple APs thorughout the home.  
   -Setup Suricata on the router in IDS mode.  
